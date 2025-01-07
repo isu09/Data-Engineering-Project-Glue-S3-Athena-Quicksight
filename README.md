@@ -59,7 +59,10 @@ Allow access to Service.
 
 Create Datasets in Quicksight.
 
-Select Athena Source -Athena- we can visualize - hit and publish to the customer.
+Select Source as-Athena-in Quicksight- we can visualize - hit and publish to the customer.
+
+![image](https://github.com/user-attachments/assets/8dfe614b-b4b9-4b04-bd3c-c7df7a772890)
+
 
 
 
